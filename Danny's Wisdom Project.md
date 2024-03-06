@@ -1,7 +1,8 @@
 ---
 Author: Danny
+--- 
 A lot of inspiration came from [Merlin Mann's Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
----
+
 
 # Danny's Wisdom Project
 > The path you set yourself on is going to be higher than any path anyone else is going to set you on.
