@@ -1,7 +1,7 @@
 ---
 Author: Danny
 --- 
-A lot of inspiration came from [Merlin Mann's Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md).
+A lot of inspiration came from [Merlin Mann's Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md). Be sure to check that project out first.
 
 
 # Danny's Wisdom Project
