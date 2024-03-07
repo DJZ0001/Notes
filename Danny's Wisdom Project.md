@@ -11,7 +11,7 @@ A lot of inspiration came from [Merlin Mann's Wisdom Project](https://github.com
 ## Epigraphs
 > "Sa-a-a-ay." It's just occurred to him. "What are all you folks helping me like this? For free and all?"
 > "Who knows? We have to play the patterns. There must be a pattern you're in, right now."
-- *Gravity's Rainbow*, Thomas Pynchon
+— *Gravity's Rainbow*, Thomas Pynchon
 
 Uncategorized quotes:
 - All religion (those honest and earnest) seek to find truth. Thus, objective truth, in itself, is its own religion (but, science is not objective truth, merely just an imperfect truth seeking process by repetition)
