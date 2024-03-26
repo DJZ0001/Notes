@@ -23,4 +23,14 @@ A lot of inspiration came from [Merlin Mann's Wisdom Project](https://github.com
 - Everything a person does is a revelation of themselves.
 - Self awareness is not the same as capacity for change
 - We may live in chaos, but there are mechanisms of control
+
+---
+## Zero to one
+Quotes and individual notes from *Zero to One: Notes on Startups, or How to Build the Future*, Peter Thiel with Blake Masters. All credit to them.
+> Every moment in business happens only once. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. And the next Mark Zuckerberg won’t create a social network. If you are copying these guys, you aren’t learning from them.
+
+> Unless they invest in the difficult task of creating new things, American companies will fail in the future no matter how big their profits remain today. What happens when we’ve gained everything to be had from fine-tuning the old lines of business that we’ve inherited? Unlikely as it sounds, the answer threatens to be far worse than the crisis of 2008. Today’s “best practices” lead to dead ends; the best paths are new and untried.
+
+> Technology is miraculous because it allows us to do more with less, ratcheting up our fundamental capabilities to a higher level. Other animals are instinctively driven to build things like dams or honeycombs, but we are the only ones that can invent new things and better ways of making them.
+
  
