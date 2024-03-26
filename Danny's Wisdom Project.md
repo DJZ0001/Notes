@@ -37,4 +37,5 @@ Quotes and individual notes from *Zero to One: Notes on Startups, or How to Buil
 
 > Technology is miraculous because it allows us to do more with less, ratcheting up our fundamental capabilities to a higher level. Other animals are instinctively driven to build things like dams or honeycombs, but we are the only ones that can invent new things and better ways of making them.
 
+> Properly understood, any new and better way of doing things is technology.
  
