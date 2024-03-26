@@ -42,3 +42,5 @@ Quotes and individual notes from *Zero to One: Notes on Startups, or How to Buil
 > the division of the world into the so-called developed and developing nations implies that the “developed” world has   already achieved the achievable, and that poorer nations just need to catch up.
 
 > In the most dysfunctional organizations, signaling that work is being done becomes a better strategy for career advancement than actually doing work (if this describes your company, you should quit now).
+
+> The first step to thinking clearly is to question what we think we know about the past.
