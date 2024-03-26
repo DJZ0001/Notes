@@ -15,6 +15,10 @@ A lot of inspiration came from [Merlin Mann's Wisdom Project](https://github.com
 
 — *Gravity's Rainbow*, Thomas Pynchon
 
+> There's no reason why the future should happen only at Stanford, or in college, or in Silicon Valley
+
+— *Zero to One: Notes on Startups, or How to Build the Future*, Peter Thiel with Blake Masters
+
 --- 
 ## Uncategorized quotes:
 - All religion (those honest and earnest) seek to find truth. Thus, objective truth, in itself, is its own religion (but, science is not objective truth, merely just an imperfect truth seeking process by repetition)
