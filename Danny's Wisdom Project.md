@@ -22,4 +22,5 @@ A lot of inspiration came from [Merlin Mann's Wisdom Project](https://github.com
 - There is objective beauty in art. Art can also be laden in the eyes of the beholder. These are not mutually exclusive.
 - Everything a person does is a revelation of themselves.
 - Self awareness is not the same as capacity for change
+- We may live in chaos, but there are mechanisms of control
  
