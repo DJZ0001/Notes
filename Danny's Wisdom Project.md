@@ -27,7 +27,7 @@ A lot of inspiration came from [Merlin Mann's Wisdom Project](https://github.com
 - Everything a person does is a revelation of themselves.
 - Self awareness is not the same as capacity for change
 - We may live in chaos, but there are mechanisms of control
-- There are so such things are walls, only barriers
+- There are no such things as walls, only barriers
 
 ---
 ## Zero to one
