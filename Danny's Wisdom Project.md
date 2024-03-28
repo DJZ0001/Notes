@@ -64,4 +64,4 @@ Quotes and individual notes from *Zero to One: Notes on Startups, or How to Buil
 
 > it takes time to build valuable things
 
-> 
+> But moving first is a tactic, not a goal
