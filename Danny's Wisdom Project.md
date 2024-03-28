@@ -45,3 +45,5 @@ Quotes and individual notes from *Zero to One: Notes on Startups, or How to Buil
 > In the most dysfunctional organizations, signaling that work is being done becomes a better strategy for career advancement than actually doing work (if this describes your company, you should quit now).
 
 > The first step to thinking clearly is to question what we think we know about the past.
+
+> All companies must be "lean", which is code for "unplanned."... and yet the opposite principles are probably more correct: A bad plan is better than no plan.
