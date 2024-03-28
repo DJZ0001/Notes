@@ -65,3 +65,11 @@ Quotes and individual notes from *Zero to One: Notes on Startups, or How to Buil
 > it takes time to build valuable things
 
 > But moving first is a tactic, not a goal
+
+> Ralph Waldo Emerson captured this ethos when he wrote: “Shallow men believe in luck, believe in circumstances.... Strong men believe in cause and effect.”
+
+> When we debate historical questions like these, luck is in the past tense. Far more important are questions about the future: is it a matter of chance or design?
+
+> A definite view, by contrast, favors firm convictions. Instead of pursuing many- sided mediocrity and calling it “well-roundedness,” a definite person determines the one best thing to do and then does it. Instead of working tirelessly to make herself indistinguishable, she strives to be great at something substantive—to be a monopoly of one. This is not what young people do today, because everyone around them has long since lost faith in a definite world. No one gets into Stanford by excelling at just one thing, unless that thing happens to involve throwing or catching a leather ball.
+
+> The European Central Bank doesn’t stand for anything but improvisation: the U.S. Treasury prints “In God We Trust” on the dollar; the ECB might as well print “Kick the Can Down the Road” on the euro. Europeans just react to events as they happen and hope things don’t get worse... All he can do is wait for it to happen, so he might as well eat, drink, and be merry in the meantime: hence Europe’s famous vacation mania.
