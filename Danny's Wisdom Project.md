@@ -46,4 +46,22 @@ Quotes and individual notes from *Zero to One: Notes on Startups, or How to Buil
 
 > The first step to thinking clearly is to question what we think we know about the past.
 
-> All companies must be "lean", which is code for "unplanned."... and yet the opposite principles are probably more correct: A bad plan is better than no plan.
+> All companies must be "lean", which is code for "unplanned."... and yet the opposite principle is probably more correct: A bad plan is better than no plan.
+
+> That doesn’t mean the opposite ideas are automatically true: you can’t escape the madness of crowds by dogmatically rejecting them. Instead ask yourself: how much of what you know about business is shaped by mistaken reactions to past mistakes? The most contrarian thing of all is not to oppose the crowd but to think for yourself.
+
+> if you want to create and capture lasting value, don’t build an undifferentiated commodity business.
+
+> In business, money is either an important thing or it is everything.
+
+> Elite students climb confidently until they reach a level of competition sufficiently intense to beat their dreams out of them. Higher education is the place where people who had big plans in high school get stuck in fierce rivalries with equally smart peers over conventional careers like management consulting and investment banking.
+
+> Competition can make people hallucinate opportunities where none exist.
+
+> Winning is better than losing, but everybody loses when the war isn’t one worth fighting.
+
+> Sometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly.
+
+> it takes time to build valuable things
+
+> 
