@@ -73,3 +73,29 @@ Quotes and individual notes from *Zero to One: Notes on Startups, or How to Buil
 > A definite view, by contrast, favors firm convictions. Instead of pursuing many- sided mediocrity and calling it “well-roundedness,” a definite person determines the one best thing to do and then does it. Instead of working tirelessly to make herself indistinguishable, she strives to be great at something substantive—to be a monopoly of one. This is not what young people do today, because everyone around them has long since lost faith in a definite world. No one gets into Stanford by excelling at just one thing, unless that thing happens to involve throwing or catching a leather ball.
 
 > The European Central Bank doesn’t stand for anything but improvisation: the U.S. Treasury prints “In God We Trust” on the dollar; the ECB might as well print “Kick the Can Down the Road” on the euro. Europeans just react to events as they happen and hope things don’t get worse... All he can do is wait for it to happen, so he might as well eat, drink, and be merry in the meantime: hence Europe’s famous vacation mania.
+
+> big plans for the future have become archaic curiosities.
+
+> Instead of working for years to build a new product, indefinite optimists rearrange already-invented ones. Bankers make money by rearranging the capital structures of already existing companies. Lawyers resolve disputes over old things or help other people structure their affairs. And private equity investors and management consultants don’t start new businesses; they squeeze extra efficiency from old ones with incessant procedural optimizations.
+
+> The government used to be able to coordinate complex solutions to problems like atomic weaponry and lunar exploration. But today, after 40 years of indefinite creep, the government mainly just provides insurance
+
+> In philosophy, politics, and business, too, arguing over process has become a way to endlessly defer making concrete plans for a better future.
+
+> But leanness is a methodology, not a goal. Making small changes to things that already exist might lead you to a local maximum, but it won’t help you find the global maximum.
+
+> definite founders with robust plans don’t sell, which means the offer wasn’t high enough. When Yahoo! offered to buy Facebook for $1 billion in July 2006, I thought we should at least consider it. But Mark Zuckerberg walked into the board meeting and announced: “Okay, guys, this is just a formality, it shouldn’t take more than 10 minutes. We’re obviously not going to sell here.” Mark saw where he could take the company, and Yahoo! didn’t. A business with a good definite plan will always be underrated in a world where people see the future as random.
+
+> You are not a lottery ticket.
+
+> Most sayings are forgotten. At the other extreme, a select few people like Einstein and Shakespeare are constantly quoted and ventriloquized. We shouldn’t be surprised, since small minorities often achieve disproportionate results.
+
+> everybody is an investor
+
+> It does matter what you do. You should focus relentlessly on something you’re good at doing, but before that you must think hard about whether it will be valuable in the future.
+
+> People are scared of secrets because they are scared of being wrong.
+
+> Fourth is “flatness.” As globalization advances, people perceive the world as one homogeneous, highly competitive marketplace: the world is “flat.” Given that assumption, anyone who might have had the ambition to look for a secret will first ask himself: if it were possible to discover something new, wouldn’t someone from the faceless global talent pool of smarter and more creative people have found it already? This voice of doubt can dissuade people from even starting to look for secrets in a world that seems too big a place for any individual to contribute something unique.
+
+> You can't find secrets without looking for them... If you think something hard is impossible, you’ll never even start trying to achieve it. Belief in secrets is an effective truth. The actual truth is that there are many more secrets left to find, but they will yield only to relentless searchers. There is more to do in science, medicine, engineering, and in technology of all kinds. We are within reach not just of marginal goals set at the competitive edge of today’s conventional disciplines, but of ambitions so great that even the boldest minds of the Scientific Revolution hesitated to announce them directly. We could cure cancer, dementia, and all the diseases of age and metabolic decay. We can find new ways to generate energy that free the world from conflict over fossil fuels. We can invent faster ways to travel from place to place over the surface of the planet; we can even learn how to escape it entirely and settle new frontiers. But we will never learn any of these secrets unless we demand to know them and force ourselves to look.
